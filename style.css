@@ -1,0 +1,37 @@
+body {
+  background-color: lavender;
+  color: DarkSlateBlue;
+  font-family: sans-serif, Calibri;
+}
+
+.code {
+  background-color: lavender;
+  font-family: Calibri;
+  
+}
+
+h1 {
+  font-family: Sans-serif;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  color: Indigo;
+  text-align: center;
+  font-family: "Edwardian Script", 'Cedarville Cursive', sans-serif,
+}
+
+table {
+  text-align: center;
+  border: 1px solid darkblue;
+  background-color: white;
+  border-collapse: collapse;
+  position: relative;
+  width: 550px;
+  margin: auto;
+}
+
+th, td {
+  border: 1px solid darkblue;
+}
